@@ -1,0 +1,9 @@
+.answer{
+    width: 1000px;
+    height: 100px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 30px;
+}
